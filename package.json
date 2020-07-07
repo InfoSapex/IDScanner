@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.4.4",
+    "electron": "^9.1.0",
     "tesseract.js": "^1.0.10"
   }
 }
